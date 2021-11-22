@@ -4,7 +4,7 @@ The app is a basic implementation of social network. It uses graph algorith to c
 
 ## Sample screeshots
 
-![Alt text](/assets/Screenshot 2021-11-22 at 11.41.21 AM.png?raw=true "Home page")
+![Alt text](/assets/Screenshot%202021-11-22%20at%2011.41.21%20AM.png?raw=true "Home page")
 
 ![Alt text](/assets/Screenshot 2021-11-22 at 11.41.31 AM.png?raw=true "Video description")
 
