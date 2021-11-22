@@ -1,4 +1,4 @@
-import Profile from "./Profile";
+
 
 function AddFriend(graph, user, target){
     graph.sendFriend(user, target);

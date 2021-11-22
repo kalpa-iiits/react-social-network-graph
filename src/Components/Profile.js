@@ -4,7 +4,6 @@ import getFriendList from './getFriendList.js';
 import getRecommandations from './getRecommandations.js';
 import Recommandations from './Recommandations.js'
 import AddNodes from './AddNodes.js';
-import AddFriend from './AddFriend.js'
 import UserList from './UserList.js';
 
 

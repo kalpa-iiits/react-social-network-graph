@@ -4,7 +4,7 @@ import Header from './Header.js'
 
 function shortestPath(graph, source, target) {
     var arr = []
-    if (source == target) {   
+    if (source === target) {   
       arr = [source]         
       return arr;                
     }                         

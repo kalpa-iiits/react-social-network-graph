@@ -2,7 +2,6 @@ import './App.css';
 import Profile from './Components/Profile.js'
 import Header from './Components/Header.js'
 
-import UserList from './Components/UserList';
 
 
 

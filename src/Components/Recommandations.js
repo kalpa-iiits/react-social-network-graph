@@ -1,12 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 
-import Profile1 from './Profile1.js';
+
 
 
 function Cards(props){
-    var user = props.user
-    var graph = props.graph
     return (
     props.friends.map(el => {
         var link = "/?source=" + props.user + "&target=" + el
@@ -22,7 +20,6 @@ function Cards(props){
 
 function Recommandations(props) {
     var friends = props.recommandations;
-    var user = props.user;
     var graph = props.graph;
     return (
         <div className= "container-fluid">
