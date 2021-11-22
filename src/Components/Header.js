@@ -6,7 +6,7 @@ function Header() {
         <>
         <ul>
             <li><Link to="/">Home</Link></li>
-            <li><Link to="/distance">Find Path</Link></li>
+            <li><Link to="/distance/">Find Path</Link></li>
         </ul>
         </>
     )
