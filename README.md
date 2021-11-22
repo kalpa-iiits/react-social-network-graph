@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Implementing soial network using graph algorithms in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
