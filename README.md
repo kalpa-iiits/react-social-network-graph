@@ -4,11 +4,11 @@ The app is a basic implementation of social network. It uses graph algorith to c
 
 ## Sample screeshots
 
-![Alt text](/assets/home.jpeg?raw=true "Home page")
+![Alt text](/assets/Screenshot 2021-11-22 at 11.41.21 AM.png?raw=true "Home page")
 
-![Alt text](/assets/video.jpeg?raw=true "Video description")
+![Alt text](/assets/Screenshot 2021-11-22 at 11.41.31 AM.png?raw=true "Video description")
 
-![Alt text](/assets/search.jpeg?raw=true "Search page")
+![Alt text](/assets/Screenshot 2021-11-22 at 11.41.34 AM.png?raw=true "Search page")
 
 
 ## Dependencies and its versions
@@ -25,7 +25,6 @@ git clone
 cd client
 npm install 
 npm start
-
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
