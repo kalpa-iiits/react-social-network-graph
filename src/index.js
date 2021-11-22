@@ -10,7 +10,7 @@ ReactDOM.render(
   <Router>
        <Routes>
 		      <Route exact path="/" element={<App/>}/>
-				  <Route exact path="/distance" element={ <Shortestdistance/> }/>
+				  <Route exact path="/distance/" element={ <Shortestdistance/> }/>
 	    </Routes>
   </Router>,
   document.getElementById('root')
