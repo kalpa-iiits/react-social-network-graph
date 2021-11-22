@@ -41,13 +41,13 @@ npm run build
 ## Application and data
 
 * React
-* Node js
+* Node 
 
 ## Other tools
 
 * Git
 * Github
-* Heroku
+* Netlify
 
 
 
